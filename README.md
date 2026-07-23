@@ -1,4 +1,4 @@
-# ♻️ Bin It Right! — Scratch Recycling Game
+# ♻️ Bin It Right! Scratch Recycling Game
 
 This project is a fun educational game created with Scratch.  
 The player must catch falling waste and sort it into the correct bin before it reaches the ground.
@@ -61,6 +61,17 @@ The game helps players practise waste classification while developing quick deci
 
 ## 📸 Screenshots
 
+### Waste Categories
+
+![Waste categories](media/waste-categories.jpg)
+
+### Winning Screen
+
+![Winning screen](media/win-screen.jpg)
+
+## 🎥 Gameplay
+
+[▶️ Watch the gameplay video](media/gameplay.mp4)
 
 
 ## 📄 License
