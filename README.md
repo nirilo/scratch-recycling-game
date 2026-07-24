@@ -48,6 +48,7 @@ scratch-recycling-game/
 ├── project/
 │   └── recycling.sb3
 ├── media/
+│   ├── assets/
 │   ├── gameplay.mp4
 │   ├── waste-categories.jpg
 │   └── win-screen.jpg
@@ -73,6 +74,12 @@ The game helps players practise waste classification while developing quick deci
 
 [▶️ Watch the gameplay video](media/gameplay.mp4)
 
+# 🎨 Asset Credits
+
+All third-party assets remain the property of their respective creators.
+The repository licence does not override the individual licences of these assets.
+
+Assets used in the Scratch game are available in the [`media/assets`](media/assets) folder.
 
 ## 📄 License
 
